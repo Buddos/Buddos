@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am Passionate about Web Development<br>Cybersecurity  enthusiast<br>Artificial Intelligence enthusiast
+I am Passionate about Web Development<br>Cybersecurity  enthusiast<br>AI And Automation Enthusiast
 
 
 ## 🌐 Socials:
