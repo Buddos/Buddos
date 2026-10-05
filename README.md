@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am Passionate about Web Development<br>Cybersecurity(Pentesting) practitioner<br>AI And Automation Enthusiast
+I am Passionate about Frontend Developer<br>Cybersecurity(Pentesting) practitioner<br>AI And Automation Enthusiast
 
 
 ## 🌐 Socials:
